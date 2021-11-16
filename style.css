@@ -31,8 +31,7 @@ header, footer{
 }
 
 #fundo{
-    background-image: url(img/ImagemSL.jpg);
-    /*("http://www2.al.rs.gov.br/filerepository/fotografias/2014/7/8/170669_G.jpg");*/
+    background-image: url(ImagemSL.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
