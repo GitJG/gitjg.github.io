@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-/**/
 <html>
   <head>
     <meta charset="utf-8">
@@ -35,9 +34,9 @@
    
     <footer id="rodape">
         <a href="https://www.instagram.com/saoleopoldoemfotos_oficial/" target="_blank">
-          <img src="img/int.png" class="icones"></a>
+          <img src="int.png" class="icones"></a>
         <a href="https://www.youtube.com/user/MeiaHoraVideos" target="_blank">
-          <img src="img/you.png" class="icones"></a>
+          <img src="you.png" class="icones"></a>
     </footer>
     </footer>
     <script src="script.js"></script>
