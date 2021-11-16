@@ -38,7 +38,6 @@
         <a href="https://www.youtube.com/user/MeiaHoraVideos" target="_blank">
           <img src="you.png" class="icones"></a>
     </footer>
-    </footer>
     <script src="script.js"></script>
   </body>
 </html>
