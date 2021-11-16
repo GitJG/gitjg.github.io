@@ -31,7 +31,7 @@ header, footer{
 }
 
 #fundo{
-    background-image: url(ImagemSL.jpg);
+    background-image: url('ImagemSL.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
